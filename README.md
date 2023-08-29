@@ -12,6 +12,8 @@ NOTE: Once you've completed a project please include the source files!
 
 ## Issue Template:
 
+[Click here](https://github.com/oscf-io/OpenDesign/issues/new) to create issue with default template
+
 ```
 ## Goal: 
 [What you'd like created]
