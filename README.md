@@ -1,6 +1,6 @@
 # OSCF Open Design
 
-**You can find all the Rust related design resources here or can request for designs.**
+**You can find all the OSCF related design resources here or can request for designs.**
 
 ## Welcome
 
